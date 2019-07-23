@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud_api/hf_itheima_cloud_api.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud_api/hf_itheima_cloud_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud_consumer/hf_itheima_cloud_consumer.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud_consumer/hf_itheima_cloud_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud_consumer_feign/hf_itheima_cloud_consumer_feign.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud_consumer_feign/hf_itheima_cloud_consumer_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud_eureka/hf_itheima_cloud_eureka.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud_eureka/hf_itheima_cloud_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud_eureka7002/hf_itheima_cloud_eureka7002.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud_eureka7002/hf_itheima_cloud_eureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud_eureka7003/hf_itheima_cloud_eureka7003.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud_eureka7003/hf_itheima_cloud_eureka7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud_provider/hf_itheima_cloud_provider.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud_provider/hf_itheima_cloud_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud_provider8002/hf_itheima_cloud_provider8002.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud_provider8002/hf_itheima_cloud_provider8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud_provider8003/hf_itheima_cloud_provider8003.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud_provider8003/hf_itheima_cloud_provider8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud_provider_hystrix/hf_itheima_cloud_provider_hystrix.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud_provider_hystrix/hf_itheima_cloud_provider_hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hf_itheima_cloud_provider_hystrixdashboard/hf_itheima_cloud_provider_hystrixdashboard.iml" filepath="$PROJECT_DIR$/hf_itheima_cloud_provider_hystrixdashboard/hf_itheima_cloud_provider_hystrixdashboard.iml" />
+    </modules>
+  </component>
+</project>
